@@ -1,6 +1,6 @@
 # ImageClassifier
 
-Inspiration and branched from the tutorial, [A Beginner’s Tutorial on Building an AI Image Classifier using PyTorch](https://towardsdatascience.com/a-beginners-tutorial-on-building-an-ai-image-classifier-using-pytorch-6f85cb69cba7).
+Inspired and branched from the tutorial, [A Beginner’s Tutorial on Building an AI Image Classifier using PyTorch](https://towardsdatascience.com/a-beginners-tutorial-on-building-an-ai-image-classifier-using-pytorch-6f85cb69cba7).
 
 Table of contents
 =================
